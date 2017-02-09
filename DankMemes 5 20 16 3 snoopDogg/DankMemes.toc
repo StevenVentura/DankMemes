@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: DankMemes
+## Notes: |cffff0000xXxQuiCkScop3RxXx
+## SavedVariables: DankOptions
+DankMemes.lua
+DankMemes.xml
+
