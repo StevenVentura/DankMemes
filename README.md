@@ -6,5 +6,6 @@ Basically it flashes different images and sounds onto the screen in different wa
 
 See https://mods.curse.com/addons/wow/dankmemes for more information
 and
+
 https://www.youtube.com/watch?v=qEKyzVSaKLM
 (i made a video explaining it for my customers)
