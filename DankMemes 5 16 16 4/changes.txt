@@ -1,2 +1,0 @@
-12:38 PM 5/16/2016
-added detection for when the player mounts

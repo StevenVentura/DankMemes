@@ -1,2 +1,0 @@
-12:55 PM 5/16/2016
-now correctly detect if player is mounted

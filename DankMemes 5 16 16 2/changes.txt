@@ -1,6 +1,0 @@
-11:54 AM 5/16/2016
-added function to consildate initializing frames, so that this is only done once instead of being done multiple times (it probably was causing a memory leak)
-
-
-
-
